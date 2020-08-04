@@ -32,4 +32,8 @@ console.log(email);
     let fullName = firstName + ' ' + lastName;
     console.log(fullName);
 
+    //2.3.2 getting characters
+
+    console.log(fullName[2]);
+
 
